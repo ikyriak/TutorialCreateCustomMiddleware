@@ -1,0 +1,9 @@
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\bin\Debug\netstandard2.0\CustomMiddleware.deps.json
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\bin\Debug\netstandard2.0\CustomMiddleware.dll
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\bin\Debug\netstandard2.0\CustomMiddleware.pdb
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\obj\Debug\netstandard2.0\CustomMiddleware.csprojAssemblyReference.cache
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\obj\Debug\netstandard2.0\CustomMiddleware.AssemblyInfoInputs.cache
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\obj\Debug\netstandard2.0\CustomMiddleware.AssemblyInfo.cs
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\obj\Debug\netstandard2.0\CustomMiddleware.csproj.CoreCompileInputs.cache
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\obj\Debug\netstandard2.0\CustomMiddleware.dll
+D:\Tutorials\TutorialCreateCustomMiddleware\TutorialCreateCustomMiddleware\obj\Debug\netstandard2.0\CustomMiddleware.pdb
